@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header{
+  background-color:rgb(192, 233, 29);
+  color:rgb(84, 16, 202);
+  height: 50px;
+  font-size: 30px;
+}
+ 
+
+.header-buttons{
+  margin-left: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  font-size: 30px;;
+}
+  
